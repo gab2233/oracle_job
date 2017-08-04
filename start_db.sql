@@ -1,3 +1,4 @@
+--configuration  initiale de la base de donnee
 CREATE TABLESPACE tbs_perm_01
   DATAFILE 'tbs_perm_01.dat'
     SIZE 10M
