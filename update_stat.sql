@@ -33,5 +33,6 @@ BEGIN
           DBMS_OUTPUT.PUT_LINE('row:' || complete_name_site || ' updated');  
           
         end if;
-    commit;
+   
+
 END update_stat;
